@@ -1,6 +1,6 @@
 # heatmap_of_ny_bike_routes
 
-This is a heatmap I made layering the top New York City bike-share routes in May 2015. It is a representation of the presence of citi-bikes over that month. See it deployed at https://citibike-heatmap.herokuapp.com.
+This is a heatmap I made layering the top New York City bike-share routes. It is a representation of the presence of citi-bikes over the month of May 2014. See it deployed at https://citibike-heatmap.herokuapp.com.
 
 Citibike provides a list of all bike trips, including start and stop station latitude and longitude.
 
